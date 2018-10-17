@@ -1,4 +1,4 @@
-# swc-example-dan
+# swc-example-dan-2-3
 An example project for the GIT lesson of EMBL Software Carpentry
 
 Quick Markdown Overview
